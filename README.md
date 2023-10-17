@@ -1,6 +1,6 @@
 ## Libmanagement
 
-Library Management System
+Library Management System By Baljit Singh
 
 #### License
 
